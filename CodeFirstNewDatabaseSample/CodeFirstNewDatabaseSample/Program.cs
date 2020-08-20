@@ -7,7 +7,11 @@ namespace CodeFirstNewDatabaseSample
     {
         static void Main(string[] args)
         {
-
+            //加上这段代码，可以确保每次运行程序时，会自动将数据库架构更新到最新的迁移
+            //简单说，就是有了这段代码，如果model类有改动，只需手动运行指令：Add-Migration xxx  生成最新的迁移文件，
+            //无需手动运行指令：Update-Database 更新数据库架构，
+            //等程序运行的时候，会自动将数据库架构更新到最新的迁移文件。
+            //Database.SetInitializer(new MigrateDatabaseToLatestVersion<CourseraContext, Configuration>());
 
             int option = -1;
             while (option != 0)
