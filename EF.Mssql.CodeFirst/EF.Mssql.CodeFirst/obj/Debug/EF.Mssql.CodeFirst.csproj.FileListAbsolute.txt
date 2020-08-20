@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\GitHub\DotNet_Some_Samples\EF.Mssql.CodeFirst\EF.Mssql.CodeFirst\bin\Debug\EF.Mssql.CodeFirst.exe.config
+C:\Users\Administrator\Documents\GitHub\DotNet_Some_Samples\EF.Mssql.CodeFirst\EF.Mssql.CodeFirst\bin\Debug\EF.Mssql.CodeFirst.exe
+C:\Users\Administrator\Documents\GitHub\DotNet_Some_Samples\EF.Mssql.CodeFirst\EF.Mssql.CodeFirst\bin\Debug\EF.Mssql.CodeFirst.pdb
+C:\Users\Administrator\Documents\GitHub\DotNet_Some_Samples\EF.Mssql.CodeFirst\EF.Mssql.CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\GitHub\DotNet_Some_Samples\EF.Mssql.CodeFirst\EF.Mssql.CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\GitHub\DotNet_Some_Samples\EF.Mssql.CodeFirst\EF.Mssql.CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\GitHub\DotNet_Some_Samples\EF.Mssql.CodeFirst\EF.Mssql.CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\GitHub\DotNet_Some_Samples\EF.Mssql.CodeFirst\EF.Mssql.CodeFirst\obj\Debug\EF.Mssql.CodeFirst.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\DotNet_Some_Samples\EF.Mssql.CodeFirst\EF.Mssql.CodeFirst\obj\Debug\EF.Mssql.CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\DotNet_Some_Samples\EF.Mssql.CodeFirst\EF.Mssql.CodeFirst\obj\Debug\EF.Mssql.CodeFirst.csproj.CopyComplete
+C:\Users\Administrator\Documents\GitHub\DotNet_Some_Samples\EF.Mssql.CodeFirst\EF.Mssql.CodeFirst\obj\Debug\EF.Mssql.CodeFirst.exe
+C:\Users\Administrator\Documents\GitHub\DotNet_Some_Samples\EF.Mssql.CodeFirst\EF.Mssql.CodeFirst\obj\Debug\EF.Mssql.CodeFirst.pdb
+C:\Users\Administrator\Documents\GitHub\DotNet_Some_Samples\EF.Mssql.CodeFirst\EF.Mssql.CodeFirst\obj\Debug\EF.Mssql.CodeFirst.Migrations.InitialCreate.resources
+C:\Users\Administrator\Documents\GitHub\DotNet_Some_Samples\EF.Mssql.CodeFirst\EF.Mssql.CodeFirst\obj\Debug\EF.Mssql.CodeFirst.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\DotNet_Some_Samples\EF.Mssql.CodeFirst\EF.Mssql.CodeFirst\obj\Debug\EF.Mssql.CodeFirst.Migrations.addNewProperty.resources
+C:\Users\Administrator\Documents\GitHub\DotNet_Some_Samples\EF.Mssql.CodeFirst\EF.Mssql.CodeFirst\obj\Debug\EF.Mssql.CodeFirst.Migrations.addTeacher.resources
+C:\Users\Administrator\Documents\GitHub\DotNet_Some_Samples\EF.Mssql.CodeFirst\EF.Mssql.CodeFirst\obj\Debug\EF.Mssql.CodeFirst.Migrations.renameTeacherPrimiryKeyName.resources
